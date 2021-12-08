@@ -1,4 +1,4 @@
-module github.com/daichirata/gcsproxy
+module github.com/glassrye/gcsproxy
 
 go 1.12
 
